@@ -24,7 +24,7 @@ If it is the first time a user is using the web application, they must register 
 - Flask
 - SQLite
 
-This website application is working perfectly fine in my local host,  but  because I used Sqlite database I find it difficult to deploy it on Heroku.
+The website has been tested and works perfectly fine in my local host, however due to the use of SQLite database, it is difficult to deploy it on Heroku. 
 
 # Website requirements
 - Home page
