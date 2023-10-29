@@ -65,3 +65,9 @@ To run this application locally, follow these steps:
 2. Install the required dependencies using the following command:
    ```bash
    pip install -r requirements.txt
+
+3. Run the Flask application:
+   ```bash
+   flask run
+
+4. Access the application in your web browser at `http://localhost:5000`.
