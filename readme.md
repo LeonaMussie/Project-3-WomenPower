@@ -1,41 +1,67 @@
-# Women-power
-Womenpower is a web application blog designed to empower women. It allows users to create, delete and like posts.
+# WomenPower Web Application
 
-In order to use all the features available, the user must first be registered and logged in. During registration, users can create their own accounts with a profile picture and update their username, image and password at any time. Once logged in, users can share their thoughts, experiences and stories. They can also view posts from other users and interact with them. 
+![WomenPower Logo](link-to-your-logo.png)
 
-Womenpower also provides the facility to like, comment and share other user's posts. This helps to create a sense of community and encourages users to engage with one another. 
+WomenPower is a web application designed to empower women, providing a platform for communication, inspiration, and support. It allows users to create, delete, and like posts, fostering a sense of community and enabling women to connect, share their stories, and learn from each other.
 
-# Objective 
+## Objective
 
-The objective of this website application is to create a platform for women to communicate, inspire, and encourage each other. This platform will allow women to share their ideas, opinions, and experiences with each other.Womenpower is a great platform to empower women and provide them with a safe space to express themselves. It encourages users to be active and engaged, and provides an opportunity to connect with each other. 
+The objective of WomenPower is to create a safe space where women can freely express themselves, share their ideas, opinions, and experiences. This platform encourages women to be active, engaged, and provides an opportunity to connect with one another. The ultimate goal is to inspire and empower women to reach their full potential and achieve their goals.
 
-The goal of this website application is to create a space where women can feel empowered and supported. It will provide a platform for women to connect, share their stories, and learn from each other. By creating this community, we hope to inspire and encourage women to reach their full potential and achieve their goals.
+## User Scenarios
 
-# User Scenario
+### New User
 
-If it is the first time a user is using the web application, they must register first. This will redirect them to the login page. After logging in, they will be redirected to the home page. In the home page, they will be able to see posts, like them and even delete their own posts. If they want to create a blog, they can go to the createblog page and create a post there. If a user goes to the account update page, they can update their username, profile picture and password. If a user tries to update their password with the same password as before, it will not let them to change the password. All the latest posts can be seen in a small box with a profile picture at the top, if the user is currently logged in. If the user is returning to the website again, they do not need to login again if they are already logged in. However, if they have logged out, they will have to login again to use the web application.
+1. **Registration:** As a new user, the first step is to register. You can create your account with a unique username and profile picture.
 
+2. **Login:** After registration, you will be redirected to the login page. Log in using your newly created account.
 
-# technologies
+3. **Home Page:** Once logged in, you will be redirected to the home page where you can view, like, and delete posts. The latest posts are displayed with profile pictures at the top.
 
-- HTML5
-- CSS
-- Bootstrap
-- Flask
-- SQLite
+4. **Create a Blog:** If you want to share your thoughts, experiences, and stories, you can go to the create blog page and create your own post.
 
-The website has been tested and works perfectly fine in my local host, however due to the use of SQLite database, it is difficult to deploy it on Heroku. 
+5. **Account Update:** If you wish to update your username, profile picture, or password, you can do so in the account update page.
 
-# Website requirements
-- Home page
-- About Us page
-- Register Page
-- Loggin Page
-- Create Blog page
-- Account update page
-- like and delete buttons
+### Returning User
 
+1. **Login:** If you are a returning user, simply log in with your existing credentials. You do not need to log in again if you are already logged in.
 
+2. **Logout:** However, if you have logged out, you will need to log in again to access the web application.
 
+## Technologies Used
 
+- **HTML5:** For structuring the web pages.
 
+- **CSS:** For styling and design.
+
+- **Bootstrap:** To enhance the user interface and experience.
+
+- **Flask:** The web framework for building the application.
+
+- **SQLite:** The database for storing user data and posts.
+
+## Website Requirements
+
+1. **Home Page:** The main landing page where users can view and interact with posts.
+
+2. **About Us Page:** Information about the purpose and goals of the WomenPower platform.
+
+3. **Register Page:** Allows new users to create their accounts.
+
+4. **Login Page:** For user authentication and access to the platform.
+
+5. **Create Blog Page:** Where users can share their thoughts, experiences, and stories.
+
+6. **Account Update Page:** Enables users to update their username, profile picture, and password.
+
+7. **Like and Delete Buttons:** Essential features for user interaction with posts.
+
+## Local Deployment
+
+To run this application locally, follow these steps:
+
+1. Clone this repository to your local machine.
+
+2. Install the required dependencies using the following command:
+   ```bash
+   pip install -r requirements.txt
