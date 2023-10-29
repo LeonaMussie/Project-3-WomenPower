@@ -1,8 +1,11 @@
 # WomenPower Web Application
 
-![WomenPower Logo](link-to-your-logo.png)
-
 WomenPower is a web application designed to empower women, providing a platform for communication, inspiration, and support. It allows users to create, delete, and like posts, fostering a sense of community and enabling women to connect, share their stories, and learn from each other.
+
+![Screenshot (75)](https://github.com/LeonaMussie/Project-3-WomenPower/assets/91215248/8123af14-bf83-4611-86d5-7ac98cf90d56)
+![Screenshot (76)](https://github.com/LeonaMussie/Project-3-WomenPower/assets/91215248/b0092773-6044-41fe-87ec-2aa3a543ee2e)
+![Screenshot (77)](https://github.com/LeonaMussie/Project-3-WomenPower/assets/91215248/e134c95d-43db-4630-818c-3e9ea685a2f8)
+
 
 ## Objective
 
