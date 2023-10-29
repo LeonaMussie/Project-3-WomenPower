@@ -45,6 +45,8 @@ The objective of WomenPower is to create a safe space where women can freely exp
 
 - **SQLite:** The database for storing user data and posts.
 
+- **Heroku:** The cloud platform used for deploying the application.
+
 ## Website Requirements
 
 1. **Home Page:** The main landing page where users can view and interact with posts.
